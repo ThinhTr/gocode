@@ -3,4 +3,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello World")
+	fmt.Print(("New Hello"))
 }
